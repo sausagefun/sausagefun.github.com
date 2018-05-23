@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
 <cross-domain-policy>
+  <allow-access-from domain="*.abccvtesting.co.uk" />
+  <allow-access-from domain="*.abcadops.co.uk" />
   <allow-access-from domain="*.jwpcdn.com" />
 </cross-domain-policy>
